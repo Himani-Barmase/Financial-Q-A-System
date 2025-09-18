@@ -21,9 +21,6 @@ The system can answer questions like:
 - **NLP techniques**: To interpret and understand natural language queries.
 
 ## How to Run
-1. Clone this repository:
-   
-   git clone https://github.com/your-username/financial-qa-system.git
 Navigate to the project folder:
 
 cd financial-qa-system
