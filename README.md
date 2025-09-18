@@ -1,5 +1,5 @@
 # Financial-Q-A-System
-Interactive Python system to query financial data from a dataset.
+Interactive Python system to query financial data from a dataset. 
 
 This project is an interactive system that allows users to query financial data using **natural language**. It was built as an assignment to demonstrate how raw financial data can be transformed into meaningful insights through Python and NLP.
 
